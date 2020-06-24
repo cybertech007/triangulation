@@ -1,2 +1,2 @@
 # triangulation
-Генерация ландшафта треугольниками (триангуляция) по типу игр
+Field triangulation
